@@ -1,0 +1,2 @@
+# mypratice
+My pycharm pratice
